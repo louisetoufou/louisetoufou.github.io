@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{wn72:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return c}));var a=t("q1tI"),o=t.n(a);function c(){return o.a.createElement(o.a.Fragment,null,o.a.createElement("video",{autoplay:"",className:"hidden md:block mx-auto",loop:!0,muted:!0,playsinline:!0},o.a.createElement("source",{src:"/images/projects/web-design/at.mp4",type:"video/mp4"})))}}}]);
+//# sourceMappingURL=8-4599aafa27f0665d9f3c.js.map
